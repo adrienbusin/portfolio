@@ -26,15 +26,15 @@ const AboutPage: NextPage<IProps> = ({ podcasts, jobs, education }) => {
 	return (
 		<AnimatePage>
 			<SeoHead
-				title="About Jacob Herper, a Senior Software Engineer and Consultant in the UK"
-				description="As a passionate front-end software developer, I create amazing websites and web apps to make the internet a better place."
+				title="About Jacob Herper, a Senior Software Engineer"
+				description="As a passionate front-end software developer, I create amazing mobile apps."
 			/>
 			<Container>
 				<h1 className="headline text-3xl md:text-5xl lg:text-6xl mt-8">
-					Hey, I&apos;m Jacob Herper
+					Hey, I&apos;m Adrien Busin
 				</h1>
 				<h2 className="font-bold text-xl md:text-2xl mt-2">
-					Senior Software Engineer from the UK
+					Senior Software Engineer
 				</h2>
 				<p className="mt-8">
 					As a passionate front-end developer, I create amazing websites and web

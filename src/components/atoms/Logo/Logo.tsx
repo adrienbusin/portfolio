@@ -20,10 +20,10 @@ const Logo = () => {
 					className="w-12 h-12"
 				/>
 				<span className="transition duration-300 opacity-100 group-hover:opacity-0">
-					@jakeherp
+					@adrienbusin
 				</span>
 				<span className="absolute transition duration-300 left-16 opacity-0 group-hover:opacity-100 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r from-blue-start to-blue-stop dark:from-purple-start dark:to-purple-stop">
-					Jacob Herper
+					Adrien Busin
 				</span>
 			</motion.a>
 		</Link>
